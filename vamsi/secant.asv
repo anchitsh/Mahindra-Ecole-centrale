@@ -1,0 +1,3 @@
+function[x1] = secant(f, x0, x1)
+for i=1:3
+    

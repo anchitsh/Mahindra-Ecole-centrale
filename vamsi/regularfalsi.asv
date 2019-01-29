@@ -1,0 +1,3 @@
+function[x] = regularfalsi(f, x0, x1)
+for i = 1:3
+    
